@@ -1,0 +1,1790 @@
+[
+    {
+        "Id": "707e1404963f424e9daafa73667d20b5",
+        "RecognitionStatus": 0,
+        "Offset": 7900000,
+        "Duration": 26400000,
+        "Channel": 0,
+        "DisplayText": "Can't you see that you're smothering me?",
+        "NBest": [
+            {
+                "Confidence": 0.8134346,
+                "Lexical": "can't you see that you're smothering me",
+                "ITN": "can't you see that you're smothering me",
+                "MaskedITN": "can't you see that you're smothering me",
+                "Display": "Can't you see that you're smothering me?",
+                "Words": [
+                    {
+                        "Word": "can't",
+                        "Offset": 7900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 11500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 13100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 18700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "smothering",
+                        "Offset": 21100000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 32300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.71283835,
+                "Lexical": "can't you see that you're smothering me holding",
+                "ITN": "can't you see that you're smothering me holding",
+                "MaskedITN": "can't you see that you're smothering me holding",
+                "Display": "can't you see that you're smothering me holding",
+                "Words": [
+                    {
+                        "Word": "can't",
+                        "Offset": 7900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 11500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 13100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 18700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "smothering",
+                        "Offset": 21100000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 32300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "holding",
+                        "Offset": 45900000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0,
+                "Lexical": "",
+                "ITN": "",
+                "MaskedITN": "",
+                "Display": ""
+            },
+            {
+                "Confidence": 0.68797356,
+                "Lexical": "can't you see that your smothering me",
+                "ITN": "can't you see that your smothering me",
+                "MaskedITN": "can't you see that your smothering me",
+                "Display": "can't you see that your smothering me",
+                "Words": [
+                    {
+                        "Word": "can't",
+                        "Offset": 7900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 11500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 13100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 16300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 19100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "smothering",
+                        "Offset": 20700000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 32300000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7118648,
+                "Lexical": "can't you see that you're smothering me hold",
+                "ITN": "can't you see that you're smothering me hold",
+                "MaskedITN": "can't you see that you're smothering me hold",
+                "Display": "can't you see that you're smothering me hold",
+                "Words": [
+                    {
+                        "Word": "can't",
+                        "Offset": 7900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 11500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 13100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 18700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "smothering",
+                        "Offset": 21100000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 32300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "hold",
+                        "Offset": 45900000,
+                        "Duration": 7300000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "c362587a5dec4f72ab0fbcab2cdb7824",
+        "RecognitionStatus": 0,
+        "Offset": 53600000,
+        "Duration": 284800000,
+        "Channel": 0,
+        "DisplayText": "Holding too tightly, afraid to lose control because everything that you thought I would be is falling apart right in front of you. Cutting the undertow. Just cut in the undertow. Every step that I take is another mistake to you. Caught in the undertow, Just caught in the undertow. And every second I waste is more than I can take.",
+        "NBest": [
+            {
+                "Confidence": 0.7882142,
+                "Lexical": "holding too tightly afraid to lose control because everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "ITN": "holding too tightly afraid to lose control because everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "MaskedITN": "holding too tightly afraid to lose control because everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Display": "Holding too tightly, afraid to lose control because everything that you thought I would be is falling apart right in front of you. Cutting the undertow. Just cut in the undertow. Every step that I take is another mistake to you. Caught in the undertow, Just caught in the undertow. And every second I waste is more than I can take.",
+                "Words": [
+                    {
+                        "Word": "holding",
+                        "Offset": 53600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "too",
+                        "Offset": 56400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tightly",
+                        "Offset": 57600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "afraid",
+                        "Offset": 66000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 70000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lose",
+                        "Offset": 72400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "control",
+                        "Offset": 80400000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "because",
+                        "Offset": 90400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everything",
+                        "Offset": 93600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 102400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 105200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thought",
+                        "Offset": 107200000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 114400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 114800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 118400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 130000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falling",
+                        "Offset": 132000000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "apart",
+                        "Offset": 138800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 150400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 157600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "front",
+                        "Offset": 161600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 168800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 173200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "cutting",
+                        "Offset": 181200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 185600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 187600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 194400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cut",
+                        "Offset": 197600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 200800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 201600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 203600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 216000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "step",
+                        "Offset": 218000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 222000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 226800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 234000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 237200000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mistake",
+                        "Offset": 246000000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 254000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 260400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 269600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 272000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 272800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 274800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 281200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 284400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 288000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 289200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 290800000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 298400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 303200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "second",
+                        "Offset": 305600000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "waste",
+                        "Offset": 314000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 321600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 323200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 326000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 329600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 330000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 336000000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.78982794,
+                "Lexical": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "ITN": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "MaskedITN": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Display": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Words": [
+                    {
+                        "Word": "holding",
+                        "Offset": 53600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "too",
+                        "Offset": 56400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tightly",
+                        "Offset": 57600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "afraid",
+                        "Offset": 66000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 70000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lose",
+                        "Offset": 72400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "control",
+                        "Offset": 80400000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "'cause",
+                        "Offset": 90800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "everything",
+                        "Offset": 93600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 102400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 105200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thought",
+                        "Offset": 107200000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 114400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 114800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 118400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 130000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falling",
+                        "Offset": 132000000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "apart",
+                        "Offset": 138800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 150400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 157600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "front",
+                        "Offset": 161600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 168800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 173200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "cutting",
+                        "Offset": 181200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 185600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 187600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 194400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cut",
+                        "Offset": 197600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 200800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 201600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 203600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 216000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "step",
+                        "Offset": 218000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 222000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 226800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 234000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 237200000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mistake",
+                        "Offset": 246000000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 254000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 260400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 269600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 272000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 272800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 274800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 281200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 284400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 288000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 289200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 290800000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 298400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 303200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "second",
+                        "Offset": 305600000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "waste",
+                        "Offset": 314000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 321600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 323200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 326000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 329600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 330000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 336000000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.77898955,
+                "Lexical": "holding too tightly afraid to lose control because everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "ITN": "holding too tightly afraid to lose control because everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "MaskedITN": "holding too tightly afraid to lose control because everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Display": "holding too tightly afraid to lose control because everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Words": [
+                    {
+                        "Word": "holding",
+                        "Offset": 53600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "too",
+                        "Offset": 56400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tightly",
+                        "Offset": 57600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "afraid",
+                        "Offset": 66000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 70000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lose",
+                        "Offset": 72400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "control",
+                        "Offset": 80400000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "because",
+                        "Offset": 90400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everything",
+                        "Offset": 93600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 102400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 105200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thought",
+                        "Offset": 107200000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 114400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 114800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 118400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "has",
+                        "Offset": 128800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "falling",
+                        "Offset": 132000000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "apart",
+                        "Offset": 138800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 150400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 157600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "front",
+                        "Offset": 161600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 168800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 173200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "cutting",
+                        "Offset": 181200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 185600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 187600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 194400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cut",
+                        "Offset": 197600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 200800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 201600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 203600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 216000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "step",
+                        "Offset": 218000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 222000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 226800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 234000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 237200000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mistake",
+                        "Offset": 246000000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 254000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 260400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 269600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 272000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 272800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 274800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 281200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 284400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 288000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 289200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 290800000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 298400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 303200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "second",
+                        "Offset": 305600000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "waste",
+                        "Offset": 314000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 321600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 323200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 326000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 329600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 330000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 336000000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.77289456,
+                "Lexical": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cut in the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "ITN": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cut in the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "MaskedITN": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cut in the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Display": "holding too tightly afraid to lose control 'cause everything that you thought i would be is falling apart right in front of you cut in the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Words": [
+                    {
+                        "Word": "holding",
+                        "Offset": 53600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "too",
+                        "Offset": 56400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tightly",
+                        "Offset": 57600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "afraid",
+                        "Offset": 66000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 70000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lose",
+                        "Offset": 72400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "control",
+                        "Offset": 80400000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "'cause",
+                        "Offset": 90800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "everything",
+                        "Offset": 93600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 102400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 105200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thought",
+                        "Offset": 107200000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 114400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 114800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 118400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 130000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falling",
+                        "Offset": 132000000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "apart",
+                        "Offset": 138800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 150400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 157600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "front",
+                        "Offset": 161600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 168800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 173200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "cut",
+                        "Offset": 181200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 184800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 185600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 187600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 194400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cut",
+                        "Offset": 197600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 200800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 201600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 203600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 216000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "step",
+                        "Offset": 218000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 222000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 226800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 234000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 237200000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mistake",
+                        "Offset": 246000000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 254000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 260400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 269600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 272000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 272800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 274800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 281200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 284400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 288000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 289200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 290800000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 298400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 303200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "second",
+                        "Offset": 305600000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "waste",
+                        "Offset": 314000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 321600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 323200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 326000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 329600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 330000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 336000000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7806033,
+                "Lexical": "holding too tightly afraid to lose control 'cause everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "ITN": "holding too tightly afraid to lose control 'cause everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "MaskedITN": "holding too tightly afraid to lose control 'cause everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Display": "holding too tightly afraid to lose control 'cause everything that you thought i would be has falling apart right in front of you cutting the undertow just cut in the undertow every step that i take is another mistake to you caught in the undertow just caught in the undertow and every second i waste is more than i can take",
+                "Words": [
+                    {
+                        "Word": "holding",
+                        "Offset": 53600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "too",
+                        "Offset": 56400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tightly",
+                        "Offset": 57600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "afraid",
+                        "Offset": 66000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 70000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lose",
+                        "Offset": 72400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "control",
+                        "Offset": 80400000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "'cause",
+                        "Offset": 90800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "everything",
+                        "Offset": 93600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 102400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 105200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thought",
+                        "Offset": 107200000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 114400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 114800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 118400000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "has",
+                        "Offset": 128800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "falling",
+                        "Offset": 132000000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "apart",
+                        "Offset": 138800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 150400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 157600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "front",
+                        "Offset": 161600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 168800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 173200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "cutting",
+                        "Offset": 181200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 185600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 187600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 194400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cut",
+                        "Offset": 197600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 200800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 201600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 203600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 216000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "step",
+                        "Offset": 218000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 222000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 226800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 234000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 237200000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mistake",
+                        "Offset": 246000000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 254000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 260400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 269600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 272000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 272800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 274800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 281200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caught",
+                        "Offset": 284400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 288000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 289200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "undertow",
+                        "Offset": 290800000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 298400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "every",
+                        "Offset": 303200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "second",
+                        "Offset": 305600000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "waste",
+                        "Offset": 314000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 321600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 323200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 326000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 329600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 330000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 336000000,
+                        "Duration": 2400000
+                    }
+                ]
+            }
+        ]
+    }
+]

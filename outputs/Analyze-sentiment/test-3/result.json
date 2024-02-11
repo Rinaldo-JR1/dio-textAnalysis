@@ -1,0 +1,109 @@
+{
+    "documents": [
+        {
+            "id": "id__27345",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.01,
+                "neutral": 0.22,
+                "negative": 0.77
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.48,
+                        "negative": 0.44
+                    },
+                    "offset": 0,
+                    "length": 41,
+                    "text": "Can't you see that you're smothering me? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.02,
+                        "negative": 0.98
+                    },
+                    "offset": 41,
+                    "length": 131,
+                    "text": "Holding too tightly, afraid to lose control because everything that you thought I would be is falling apart right in front of you. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.88,
+                        "negative": 0.09
+                    },
+                    "offset": 172,
+                    "length": 22,
+                    "text": "Cutting the undertow. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 194,
+                    "length": 26,
+                    "text": "Just cut in the undertow. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.33,
+                        "negative": 0.65
+                    },
+                    "offset": 220,
+                    "length": 50,
+                    "text": "Every step that I take is another mistake to you. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.66,
+                        "negative": 0.31
+                    },
+                    "offset": 270,
+                    "length": 53,
+                    "text": "Caught in the undertow, Just caught in the undertow. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.3,
+                        "negative": 0.69
+                    },
+                    "offset": 323,
+                    "length": 50,
+                    "text": "And every second I waste is more than I can take. ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
